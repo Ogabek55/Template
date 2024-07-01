@@ -1,0 +1,254 @@
+@media screen and (max-width:1143px) {
+    .center{
+        display: flex;
+        justify-content:center ;
+    }
+    .cart_shirt1{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+       
+    }
+  } 
+  @media screen and (max-width:1048px) {
+    .model_carts{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        margin-top: 100px;
+    }
+  }
+  @media screen and (max-width:855px) {
+    .center{
+        display: flex;
+        justify-content:center ;
+    }
+    .cart_shirt1{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+       
+    }
+  } 
+@media screen and (max-width:990px) {
+   .header_h1{
+    display: none;
+   }
+   .feature_deparment5{
+display: none;
+   }
+  }
+@media screen and (max-width:850px) {
+  .main_Element{
+    display: block;
+  }
+}
+@media screen and (max-width:801px) {
+    .model_carts{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        margin-top: 100px;
+    }
+    .center{
+        display: flex;
+        justify-content: center;
+    }
+  }
+
+@media screen and (max-width:755px) {
+    .collektion{
+      display: block;
+    }
+    .collektion_woman{
+        display: flex;
+        justify-content:space-evenly;
+        align-items: center;
+        width:100%;
+        height: 250px;
+        opacity: 0px;
+        background-color:#F4F4F4;
+    }
+    .collektion_man{
+        display: flex;
+        justify-content:space-evenly;
+        align-items: center;
+        width:100%;
+        height: 250px;
+        opacity: 0px;
+        background-color:#F4F4F4;
+    }
+  }
+@media screen and (max-width:750px) {
+    .header_img{
+      display: none;
+    }
+  }
+  @media screen and (max-width:734px) {
+    .feature_deparment4{
+      display: none;
+    }
+    
+  }
+  @media screen and (max-width:595px) {
+    .header_h305{
+      display: none;
+    }
+    .main_Element2_img{
+        width: 100%;
+    }
+  }  
+  @media screen and (max-width:577px) {
+    .center{
+        display: flex;
+        justify-content:center ;
+    }
+    .cart_shirt1{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+       
+    }
+  }
+  @media screen and (max-width:730px) {
+    .deliver1_button{
+      display: none;
+    }
+    
+  }
+  @media screen and (max-width:547px) {
+    .model_carts{
+        display: grid;
+        grid-template-columns:1fr;
+        margin-top: 100px;
+    }
+    .center{
+        display: flex;
+        justify-content: center;
+    }
+    .deliver1_p{
+      font-family: Montserrat;
+      font-size: 20px;
+      line-height: 36.57px;
+      letter-spacing: 0.02em;
+      text-align: center;
+      
+  }
+  .deliver1_input{
+    width: 200px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    text-align: center;
+}
+  }
+ 
+  @media screen and (max-width:516px) {
+    .header_h304{
+      display: none;
+    }
+    .fa-bars{
+        display: block;
+    }
+    .feature_deparment3{
+      display: none;
+    }
+  }   
+  @media screen and (max-width:500px) {
+    .deliver_p{
+        font-family: Montserrat;
+        font-size: 20px;
+        line-height: 36.57px;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color:white;
+    }
+    .deliver_p1{
+        margin-top: 23px;
+        font-family: Montserrat;
+        font-size: 17px;
+        line-height: 25.6px;
+        text-align: center;
+        color: white;    
+    }
+  }       
+  @media screen and (max-width:443px) {
+    .header_h302{
+      display: none;
+    }
+    .fa-bars1{
+      display: block;
+  }
+  }    
+  @media screen and (max-width:413px) {
+    .deliver1_input{
+    display: none;
+  }
+    
+  }
+@media screen and (max-width:400px) {
+  .feature_deparment2{
+    display: none;
+  }
+  
+}
+@media screen and (max-width:388px) {
+.collektion_man_img{
+  width: 100%;
+}
+.collektion_woman_img{
+  width: 100%;
+}
+.collektion_man_p{
+  font-family: Montserrat;
+  font-size: 20px;
+  line-height: 29.26px;
+  letter-spacing: 0.03em;
+  text-align: left;
+  
+}
+.collektion_man_p1{
+  font-family: Montserrat;
+  font-size: 14px;
+  line-height: 19.5px;
+  text-align: left;
+  margin-top: 25px;    
+}
+.collektion_man_button{
+  width: 70px;
+  height: 20px;
+  gap: 0px;
+  opacity: 0px;
+  background-color:#D7B399;
+  color: white;
+  border: none;
+  margin-top: 55px;
+  
+
+  
+}
+
+.collektion_woman_p{
+  font-family: Montserrat;
+  font-size: 20px;
+  line-height: 29.26px;
+  letter-spacing: 0.03em;
+  text-align: left;
+  
+}
+.collektion_woman_p1{
+  font-family: Montserrat;
+  font-size: 14px;
+  line-height: 19.5px;
+  text-align: left;
+  margin-top: 25px;    
+}
+.collektion_woman_button{
+  width: 70px;
+  height: 20px;
+  gap: 0px;
+  opacity: 0px;
+  background-color:#D7B399;
+  color: white;
+  border: none;
+  margin-top: 55px;
+  
+
+  
+}
+}
